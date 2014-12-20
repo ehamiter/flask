@@ -1,4 +1,4 @@
-.. _`tutorial-folders`:
+.. _tutorial-folders:
 
 Step 0: Creating The Folders
 ============================

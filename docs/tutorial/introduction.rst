@@ -1,4 +1,4 @@
-.. _`tutorial-introduction`:
+.. _tutorial-introduction:
 
 Introducing Flaskr
 ==================
@@ -28,6 +28,6 @@ Here a screenshot of the final application:
    :class: screenshot
    :alt: screenshot of the final application
 
-Continue with `tutorial-folders`_.
+Continue with :ref:`tutorial-folders <folders.rst>`.
 
 .. _SQLAlchemy: http://www.sqlalchemy.org/
