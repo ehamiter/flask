@@ -28,6 +28,6 @@ Here a screenshot of the final application:
    :class: screenshot
    :alt: screenshot of the final application
 
-Continue with :ref:`tutorial-folders`.
+Continue with :ref:_`tutorial-folders`.
 
 .. _SQLAlchemy: http://www.sqlalchemy.org/
