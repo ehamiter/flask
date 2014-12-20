@@ -29,5 +29,5 @@ Here a screenshot of the final application:
    :alt: screenshot of the final application
 
 Continue with :ref:`tutorial-folders <folders.rst>`.
-
+ `See this file <folders.rst>`_
 .. _SQLAlchemy: http://www.sqlalchemy.org/
